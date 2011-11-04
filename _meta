@@ -1,8 +1,0 @@
-<package project="Mer:Trunk:Base" name="xcb-util">
-  <title>Convenience libraries sitting on top of libxcb</title>
-  <description>Description: %{summary}
-
-
-</description>
-  <url>http://xcb.freedesktop.org/</url>
-</package>
